@@ -1,0 +1,13 @@
+{
+  "name": "blazing-fast-api",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "type": "module",
+  "scripts": {
+    "dev:serve": "node main.js"
+  },
+  "keywords": [],
+  "author": "Naol Arega",
+  "license": "MIT"
+}
