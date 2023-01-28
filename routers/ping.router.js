@@ -7,3 +7,9 @@ pingRouter.get('', () => {
         message: 'hello world'
     };
 });
+
+pingRouter.post('', data => {
+    return {
+        message: `data recieved ${data}`
+    };
+});
